@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31261" started-at="2018-12-24T09:41:03Z" finished-at="2018-12-24T09:41:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31261" started-at="2018-12-24T09:41:03Z" finished-at="2018-12-24T09:41:34Z">
+      <class name="Package2.BluestoneAutomate">
+        <test-method status="PASS" signature="demo()[pri:0, instance:Package2.BluestoneAutomate@7a1ebcd8]" name="demo" is-config="true" duration-ms="23627" started-at="2018-12-24T09:41:03Z" finished-at="2018-12-24T09:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="AutomateBluestone()[pri:0, instance:Package2.BluestoneAutomate@7a1ebcd8]" name="AutomateBluestone" duration-ms="7582" started-at="2018-12-24T09:41:26Z" finished-at="2018-12-24T09:41:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutomateBluestone -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:Package2.BluestoneAutomate@7a1ebcd8]" name="shutDown" is-config="true" duration-ms="0" started-at="2018-12-24T09:41:34Z" finished-at="2018-12-24T09:41:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- Package2.BluestoneAutomate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
